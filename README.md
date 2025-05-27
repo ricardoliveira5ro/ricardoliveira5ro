@@ -2,7 +2,7 @@
 
 #### Full-Stack Developer at *HN Services*
 
-- ⚙️ Technologies I've worked with: `java`, `spring`, `javascript`, `typescript`, `react`, `node.js`, `ruby`, `angular`, `kotlin`
+- ⚙️ Technologies I've worked with: `java`, `spring`, `javascript`, `typescript`, `react.js`, `node.js`
 - 💻 *Coded* some cool projects and tools, explore my GitHub repositories to find something you like.
 - 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/ricardo5oliveira/) for more detailed information
 - 💬 `ping` me about new development opportunities.
